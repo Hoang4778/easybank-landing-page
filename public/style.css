@@ -77,7 +77,7 @@ header {
 }
 #heroes {
 	width: 100%;
-	max-height: 130vh;
+	height: 50rem;
 	position: relative;
 	padding-left: 8%;
 	display: grid;
